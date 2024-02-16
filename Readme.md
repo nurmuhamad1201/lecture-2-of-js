@@ -11,6 +11,11 @@
 #### in js 4-sort of scope
 **1.•Global scope: The default scope for all code running in script mode.
 2.•Function scope: The scope created with afunction.
+````javascript
+function myFunction() {
+  var carName = "Volvo";   // Function Scope
+}
+````
 3.Block scope: This scope restricts the variable that is declared
 inside a specific block, from access by the outside of the block.
 4.•Module scope: The scope for code running in module mode.**
