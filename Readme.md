@@ -39,7 +39,7 @@ program is interpreted line-by-line, top-down in order, as the program
 execute. While that is essentially true, there’s one part of that as‐
 assumption that can lead to incorrect thinking about your program.*
 
-![Alt-текст](https://th.bing.com/th/id/OIP.3VMQtaCe5zqaBR_svztdnAHaG9?rs=1&pid=ImgDetMain "Заголовок изображения")
+
 ![Alt-текст](https://3.imimg.com/data3/BF/XO/MY-16621590/animation-500x500.png "Заголовок изображения")
 # THE END!!!
 ![Alt text](image.png)
