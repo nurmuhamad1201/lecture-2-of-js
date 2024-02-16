@@ -1,5 +1,5 @@
 # JAVAScrit Lecture 2
-![Alt-текст](https://th.bing.com/th/id/R.fa8bcbf7f2be675a9a4d847a2aeed69d?rik=8%2fpuqpn5Ngy5ow&pid=ImgRaw&r=0 "Заголовок изображения")
+![Alt-текст](https://itproger.com/img/news/1540394188.jpg)
 ## THEME:
 ## 1.Scope
 ## 2.Hoisting
